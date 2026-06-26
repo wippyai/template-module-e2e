@@ -1,0 +1,23 @@
+/.idea
+/.vscode
+/runtime
+/dist
+/build
+/.wippy
+*.wapp
+
+# Dependency directories
+/node_modules
+/vendor
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.tmp
+.DS_Store
+
+# env file
+.env
